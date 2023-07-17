@@ -1,0 +1,132 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    background-color:white;
+}
+/* this is header */
+header{
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 1) 10%, rgba(0, 0, 0, 0) 100%), url(images/donation1.jpg);
+    background-size: cover;
+    height: 700px;
+    color:white;
+    text-align: center;
+    background: linear-gradient(to right,black 40%);
+
+}
+.honeandparagraph{
+    width:100% ;
+   
+    
+}
+.lets{
+    font-size: 40px;
+}
+.donatenow{
+    margin-top:0%;
+    padding-top: 0%;
+    width:150px ;
+    padding: 14px;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.assunnah{
+ margin-top: 400px;
+    font-size: 20px;
+    width: 40%;
+    margin-left:500px ;
+} 
+/* this is header end */
+ /* this is section    */
+ .todaydonate{
+    font-size: 20px;
+ }
+.donate{
+   text-align: center;
+   margin-top: 100px;
+   margin-bottom: 0%;
+   padding-bottom: 0%;
+}
+.paragraph{
+    margin-top: 0%;
+    padding-top: 0%;
+    text-align: center;
+}
+.price{
+ text-align: center;
+ margin-top: 40px;
+}
+.onehanded{
+    background-color: #beb6b6;
+    color:black;
+    width: 120px;
+    font-size:x-large;
+    padding: 30px;
+    border-radius: 5px;
+   border: none;
+   font-weight: bold;
+}
+.twohandede{
+    background-color:#d69999;
+    color:black;
+    width: 120px;
+    font-size:x-large;
+    padding: 30px;
+    border-radius: 5px;
+   border: none;
+   font-weight: bold;
+ 
+}
+/* this is section end */
+.other{
+   width:15% ; 
+text-align: center;
+   font-weight: normal;
+   color: #beb6b6;
+   margin-top: 300px;
+   margin-left: 600px;
+   border-bottom: 2px solid gray;
+} 
+.donatenow{
+    background-color: #FF5959;
+    color: white;
+margin-top:2%;
+margin-left: 640px;
+}   
+   
+.Ourdonate{
+    font-size: 20px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+/* this is cart */
+.cart{
+    width: 100%;
+    display: inline-flex;
+}
+.foodpng{
+    background-color:#edf5f6;
+    width: 20%;
+    margin-left: 5%;
+margin-top: 100px;
+    margin-bottom: 200px;
+    padding: 30px;
+
+}
+.shelter{
+    background-color:#ffeeee;
+    width: 20%;
+    margin-left: 5%;
+margin-top: 100px;
+    margin-bottom: 200px;
+    padding: 30px;
+}
+
+
+   
+
+
