@@ -90,11 +90,15 @@ text-align: center;
    margin-left: 600px;
    border-bottom: 2px solid gray;
 } 
-.donatenow{
+.seconddonate{
     background-color: #FF5959;
     color: white;
 margin-top:2%;
 margin-left: 640px;
+width:150px ;
+padding: 14px;
+border: none;
+border-radius:5px ;
 }   
    
 .Ourdonate{
@@ -125,6 +129,15 @@ margin-top: 100px;
     margin-bottom: 200px;
     padding: 30px;
 }
+.frame{
+  background-color: #fff4d6;  
+  width: 20%;
+  margin-left: 5%;
+margin-top: 100px;
+  margin-bottom: 200px;
+  padding: 30px;
+}
+/* this is cart end */
 
 
    
