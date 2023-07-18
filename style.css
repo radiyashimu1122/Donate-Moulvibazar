@@ -201,6 +201,7 @@ margin-left:5% ;
     display:inline-flex
 }
 /* more card end */
+/* this is footer section */
 .getmyupdate{
     text-align: center;
     font-weight: bold;
@@ -232,7 +233,7 @@ margin-left:5% ;
     background-color: black;
   padding: 50px;
     color: white;
-    font-weight: normal;
+  
 }
 .radiya{
     font-weight: normal;
