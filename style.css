@@ -186,6 +186,8 @@ margin-left:5% ;
   margin-left: 5px;
     width: 200px;
     margin-top: 0%;
+    font-size:large;
+    font-weight: normal;
     
 }
 .ifyou{
@@ -194,5 +196,8 @@ margin-left:5% ;
    margin-left:5px ;
 }
    
+.morecart{
+    display:inline-flex
+}
 
 
