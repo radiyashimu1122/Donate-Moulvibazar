@@ -204,3 +204,32 @@ margin-left:5% ;
     text-align: center;
     font-weight: bold;
 }
+.inputandbutton{
+    background-color: rgb(255 244 214);
+    width: 40%;
+    height: 150px;
+   margin-left: 500px;
+   margin-bottom: 100px;
+   border: none;
+}
+.emaile{
+    margin-top: 40px;
+   margin-left: 70px;
+   padding: 10px;
+    width: 300px;
+
+}
+.subscribe{
+    background-color: #FF5959;
+    width:150px ;
+    padding: 10px;
+    color: white;
+    border: none;
+}
+.copyright{
+    text-align: center;
+    background-color: black;
+  padding: 50px;
+    color: white;
+    font-weight: normal;
+}
