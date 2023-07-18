@@ -13,6 +13,10 @@ header{
     background: linear-gradient(to right,black 40%);
 
 }
+.lets{
+    padding-top: 350px;
+    text-align:center ;
+}
 .honeandparagraph{
     margin-bottom: 0%;
     padding-bottom: 0%;
@@ -23,9 +27,8 @@ header{
     margin-top: 0%;
     padding-top: 0%;
 }   
-.lets{
-    text-align:center ;
-}
+
+
 .donatenow{
     margin-top:0%;
     padding-top: 0%;
@@ -39,7 +42,7 @@ header{
 
 
 .assunnah{
- margin-top: 400px;
+ margin-top: 50px;
     font-size: 20px;
     width: 40%;
     margin-left:500px ;
@@ -163,7 +166,7 @@ margin-top: 100px;
 
 margin-left:5% ;
     background-color:whitesmoke ;
-    width:24% ;
+    width:25% ;
   border-radius: 30px;
   margin-bottom: 30px;  
 }
@@ -182,14 +185,15 @@ margin-left:5% ;
     border-radius: 5px;
     border: none;
     margin-bottom: 20px;
-  
+  margin-left: 5px;
     width: 200px;
     margin-top: 0%;
-    padding-left: 0%;
+    
 }
 .ifyou{
     margin-bottom:0%;
    padding-bottom: 0%;
+   margin-left:5px ;
 }
    
 
