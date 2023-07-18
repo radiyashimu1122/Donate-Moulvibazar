@@ -77,6 +77,7 @@ header{
    border: none;
    font-weight: bold;
 }
+/* this is two hundred */
 .twohundred{
     background-color:#d69999;
     color:black;
@@ -169,6 +170,9 @@ margin-left:5% ;
   border-radius: 30px;
   margin-bottom: 30px;  
 }
+.general{
+    margin-left: 5px;
+}
 /* this is image */
 .generalimage{
   
@@ -193,9 +197,11 @@ margin-left:5% ;
     
 }
 .ifyou{
+    text-align: justify;
     margin-bottom:0%;
    padding-bottom: 0%;
    margin-left:5px ;
+   margin-right: 5px;
 }
    
 .morecart{
@@ -220,6 +226,7 @@ margin-left:5% ;
    margin-left: 70px;
    padding: 10px;
     width: 300px;
+    text-align: center;
 
 }
 .subscribe{
